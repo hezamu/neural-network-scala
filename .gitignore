@@ -1,0 +1,10 @@
+.project
+.settings
+.idea
+.classpath
+*.iml
+*.launch
+hasy*
+**HASY*
+project
+target
